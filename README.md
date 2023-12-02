@@ -1,5 +1,5 @@
 # advent-of-code-2022
-Tooling &amp; Solutions for Advent of Code 2022 problems
+Tooling &amp; Solutions for Advent of Code 2023 problems
 
 ## Compile CLI
 
