@@ -3,7 +3,7 @@ class Solution
     def initialize
         @schematic = [] of Array(String)
         # key track of visited nodes, note if sym or not and position of gears
-        #                              walked    x     y    symbol
+        #                              is_sym    x     y    symbol
         @walked = {} of String => Tuple(Bool, Int32, Int32, String)
         @col_upper_bound = 0
         @row_upper_bound = 0
